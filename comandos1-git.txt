@@ -1,0 +1,8 @@
+git init = 'iniciar repositorio'
+git config -- global user.name 'usuario'
+git config -- global user.name 'email'
+git remote add origin 'link' linkar o repositorio
+git add . ele adiciona arquivos para o comit
+git status ele mostra os arquivos que foi adicionado ou nao se ta verde foi adiocinado vermelho nao
+git commit -m commitar nos arquivos
+
