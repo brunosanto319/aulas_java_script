@@ -6,3 +6,9 @@ git add . ele adiciona arquivos para o comit
 git status ele mostra os arquivos que foi adicionado ou nao se ta verde foi adiocinado vermelho nao
 git commit -m commitar nos arquivos
 
+git branch = lista as branch
+git branch cria uma branch 'nome da branchs' e depois 'master'
+git chekout 'nome branch' = mudo para outra branch ex to na master e quero ir na copia para codar
+git chekout -b 'nome para criar' e 'master' = cria uma branch e ja entra nela para codar sem mecher na master
+
+ 
